@@ -5,6 +5,8 @@ This is an open-source live chat application that allows users to communicate in
 
 Get the front end code from https://github.com/MJDaws0n/Live-Chat-Website
 
+Admins have /commands cause why not
+
 Must be ran through an SSL proxy
 
 
